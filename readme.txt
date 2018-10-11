@@ -13,3 +13,4 @@ Add comment.
 Add comment2.
 Git gui test.
 Git gui test2.
+Git gui test4.
