@@ -12,4 +12,4 @@ Add author2.
 Add comment.
 Add comment2.
 Git gui test.
-Git gui test2.
+Git gui test1.
