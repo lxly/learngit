@@ -7,5 +7,7 @@ Creating a new branch is quick and simple.
 Add merge.
 Add merge2.
 Add merge3.
+Add author.
+Add author2.
 Add comment.
 Add comment2.
